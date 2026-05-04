@@ -66,7 +66,7 @@
   <a href="http://www.linkedin.com/in/viswanathan-link" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href=https://leetcode.com/u/ViswanathanMS/" target="_blank">
+  <a href="https://leetcode.com/u/ViswanathanMS" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
